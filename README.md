@@ -1,2 +1,2 @@
 # test-github
-Test 3 from coursera
+I am editing the README file. Adding some more details about the project description.
